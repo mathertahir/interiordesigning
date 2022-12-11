@@ -1,0 +1,60 @@
+.main-footer{
+  width:76rem;
+  height: 20rem;
+  background-color:black;
+  color:white ;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.footer-child1{
+  
+  width: 30%;
+  height: 20rem;
+  
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+
+
+
+}
+.footer-child2{
+  width: 30%;
+  height: 20rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+
+}
+.footer-child3{
+  width: 30%;
+  height: 20rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  text-align: center;
+
+
+}
+#service{
+  color: rgb(255, 255, 255);
+}
+#contact{
+  color:  rgb(255, 255, 255); ;
+}
+
+#desc{
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+
